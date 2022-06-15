@@ -1,4 +1,4 @@
-# Sign-up-page-validations
+# Sign-up-page-validations ✔️
 Form validations using HTML,CSS,JS
 
 1. DOM manipulations
